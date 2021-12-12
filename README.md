@@ -1,2 +1,1 @@
-# Javascript_Project_Progate
-Build A Calculator With Java Script
+# Build A Calculator With JavaScript, HTML, and CSS
