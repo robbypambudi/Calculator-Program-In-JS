@@ -25,8 +25,12 @@
 	}
 	.calculator-screen {
 		width: 75%;
+		font-size: 26px;
 	}
 	.calculator-keys {
 		width: 75%;
+	}
+	button {
+		font-size: 26px;
 	}
 }
