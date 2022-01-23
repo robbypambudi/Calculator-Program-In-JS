@@ -2,6 +2,9 @@ let prevNumber = "";
 let calculationOperator = "";
 let currentNumber = "0";
 let multioperator = 0;
+
+
+///sadasdadasdas
 // Menghitung angka
 const calculate = () => {
 	let result = "";
